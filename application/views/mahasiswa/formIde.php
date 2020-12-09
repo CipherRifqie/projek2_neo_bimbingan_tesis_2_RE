@@ -5,7 +5,7 @@
 	</div>
 	<div class="form-row">
 		<div class="form-group col-md col">
-			<input class="form-control form-control-sm" type="text" name="judul" id="judul" placeholder="Judul Skripsi" required>
+			<input class="form-control form-control-sm" type="text" name="judul" id="judul" placeholder="Judul Tesis" required>
 		</div>
 
 		<div class="form-group col-auto">
